@@ -1,4 +1,4 @@
-### Oláaa, me chamo José Dias, sou estudante de ADS, denvolvedor front-end e apaixonado por tecnologia 🧙‍♂️
+### Olá!Me chamo José Dias sou estudante de ADS, denvolvedor front-end e apaixonado por tecnologia 🧙‍♂️
 
 - 🌱 Estudando: Bootstrap e JS
 - 😄 Pronouns: ele/dele
